@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1776488611849,
-      "created": 1776488611849,
+      "updated": 1776497965121,
+      "created": 1776497965121,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -20,384 +20,139 @@
       "parent": null,
       "data": {}
     },
-    "fnvrjv6dkz2h936rbya2wt9": {
-      "id": "fnvrjv6dkz2h936rbya2wt9",
-      "title": "Root",
-      "desc": "",
-      "updated": 1776165740442,
-      "created": 1776165740442,
+    "public-root": {
+      "id": "public-root",
+      "title": "Nilay Doshi",
+      "desc": "Personal notes, writing, and things I'm learning.",
+      "updated": 1776486000000,
+      "created": 1776486000000,
+      "published": true,
       "custom": {
+        "published": true,
         "nav_order": 0,
         "permalink": "/"
       },
-      "fname": "root",
+      "fname": "public",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "contentHash": "9a33b53687a3075c2f7d89c26d05f713",
+      "contentHash": "f63332639842ebfe7271de43c5b6326f",
       "links": [],
       "anchors": {
-        "welcome-to-dendron": {
+        "welcome": {
           "type": "header",
-          "text": "Welcome to Dendron",
-          "value": "welcome-to-dendron",
-          "line": 7,
+          "text": "Welcome",
+          "value": "welcome",
+          "line": 9,
           "column": 0,
           "depth": 1
         },
-        "lookup": {
+        "what-youll-find-here": {
           "type": "header",
-          "text": "Lookup",
-          "value": "lookup",
-          "line": 11,
+          "text": "What you'll find here",
+          "value": "what-youll-find-here",
+          "line": 13,
           "column": 0,
           "depth": 2
         }
       },
-      "children": [
-        "r4q43km80gq5zd5zvyh7dw9",
-        "xkqu4lnms9a3af0lhkl0i4m",
-        "0zu0ozh1grarvl1t9inemki",
-        "fjwc3eputiiymhubjyd13i2"
-      ],
+      "children": [],
       "parent": null,
-      "data": {}
-    },
-    "fjwc3eputiiymhubjyd13i2": {
-      "fname": "moksha",
-      "stub": true,
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1776488512786,
-      "created": 1776488512786,
-      "id": "fjwc3eputiiymhubjyd13i2",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "z1qlh4zn4enzcgap95kl3jb"
-      ],
-      "parent": "fnvrjv6dkz2h936rbya2wt9",
-      "data": {},
-      "title": "Moksha"
-    },
-    "z1qlh4zn4enzcgap95kl3jb": {
-      "fname": "moksha.journal",
-      "stub": true,
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1776488512788,
-      "created": 1776488512788,
-      "id": "z1qlh4zn4enzcgap95kl3jb",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "wrk3h3u501xi2vt3jrcloew"
-      ],
-      "parent": "fjwc3eputiiymhubjyd13i2",
-      "data": {},
-      "title": "Journal"
-    },
-    "wrk3h3u501xi2vt3jrcloew": {
-      "fname": "moksha.journal.2026",
-      "stub": true,
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1776488512788,
-      "created": 1776488512788,
-      "id": "wrk3h3u501xi2vt3jrcloew",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "7lp772rctgxfx400u4bjogi"
-      ],
-      "parent": "z1qlh4zn4enzcgap95kl3jb",
-      "data": {},
-      "title": "2026"
-    },
-    "7lp772rctgxfx400u4bjogi": {
-      "fname": "moksha.journal.2026.04",
-      "stub": true,
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1776488512788,
-      "created": 1776488512788,
-      "id": "7lp772rctgxfx400u4bjogi",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "t0p06bvgzespk841f66i0mu"
-      ],
-      "parent": "wrk3h3u501xi2vt3jrcloew",
-      "data": {},
-      "title": "04"
-    },
-    "t0p06bvgzespk841f66i0mu": {
-      "id": "t0p06bvgzespk841f66i0mu",
-      "title": "2026-04-16",
-      "desc": "",
-      "updated": 1776428625206,
-      "created": 1776338547966,
-      "traitIds": [
-        "journalNote"
-      ],
-      "custom": {},
-      "fname": "moksha.journal.2026.04.16",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "contentHash": "02d35b418ea8a849cfa44bdd28f2a1a5",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "7lp772rctgxfx400u4bjogi",
-      "data": {}
-    },
-    "0zu0ozh1grarvl1t9inemki": {
-      "fname": "templates",
-      "stub": true,
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1776488512783,
-      "created": 1776488512783,
-      "id": "0zu0ozh1grarvl1t9inemki",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "hmorxcldlj03u3q8t5ao8v1"
-      ],
-      "parent": "fnvrjv6dkz2h936rbya2wt9",
-      "data": {},
-      "title": "Templates"
-    },
-    "hmorxcldlj03u3q8t5ao8v1": {
-      "id": "hmorxcldlj03u3q8t5ao8v1",
-      "title": "Daily Journal Template",
-      "desc": "",
-      "updated": 1776173343240,
-      "created": 1776166846390,
-      "custom": {},
-      "fname": "templates.daily",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "contentHash": "f4a56556ec10cfa4b99ed26f2146c310",
-      "links": [],
-      "anchors": {
-        "actions": {
-          "type": "header",
-          "text": "Actions",
-          "value": "actions",
-          "line": 8,
-          "column": 0,
-          "depth": 1
-        },
-        "personal": {
-          "type": "header",
-          "text": "Personal",
-          "value": "personal",
-          "line": 10,
-          "column": 0,
-          "depth": 2
-        },
-        "work": {
-          "type": "header",
-          "text": "Work",
-          "value": "work",
-          "line": 20,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "0zu0ozh1grarvl1t9inemki",
-      "data": {}
-    },
-    "xkqu4lnms9a3af0lhkl0i4m": {
-      "id": "xkqu4lnms9a3af0lhkl0i4m",
-      "title": "Inbox",
-      "desc": "",
-      "updated": 1776488606876,
-      "created": 1776168380566,
-      "custom": {},
-      "fname": "inbox",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "contentHash": "f20b74e76cced2b85ced70179f809761",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "fnvrjv6dkz2h936rbya2wt9",
-      "data": {}
-    },
-    "r4q43km80gq5zd5zvyh7dw9": {
-      "id": "r4q43km80gq5zd5zvyh7dw9",
-      "title": "Handbook",
-      "desc": "",
-      "updated": 1776256268757,
-      "created": 1776256034027,
-      "custom": {},
-      "fname": "handbook",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "bodhisattva"
-      },
-      "contentHash": "adb779eb800d1cd459ebedd7cd762e72",
-      "links": [],
-      "anchors": {
-        "status": {
-          "type": "header",
-          "text": "Status",
-          "value": "status",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "fnvrjv6dkz2h936rbya2wt9",
       "data": {}
     }
   },
   "domains": [
     {
-      "id": "fnvrjv6dkz2h936rbya2wt9",
-      "title": "Root",
-      "desc": "",
-      "updated": 1776165740442,
-      "created": 1776165740442,
+      "id": "public-root",
+      "title": "Nilay Doshi",
+      "desc": "Personal notes, writing, and things I'm learning.",
+      "updated": 1776486000000,
+      "created": 1776486000000,
+      "published": true,
       "custom": {
+        "published": true,
         "nav_order": 0,
         "permalink": "/"
       },
-      "fname": "root",
+      "fname": "public",
+      "body": "\n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "contentHash": "9a33b53687a3075c2f7d89c26d05f713",
+      "contentHash": "f63332639842ebfe7271de43c5b6326f",
       "links": [],
       "anchors": {
-        "welcome-to-dendron": {
+        "welcome": {
           "type": "header",
-          "text": "Welcome to Dendron",
-          "value": "welcome-to-dendron",
-          "line": 7,
+          "text": "Welcome",
+          "value": "welcome",
+          "line": 9,
           "column": 0,
           "depth": 1
         },
-        "lookup": {
+        "what-youll-find-here": {
           "type": "header",
-          "text": "Lookup",
-          "value": "lookup",
-          "line": 11,
+          "text": "What you'll find here",
+          "value": "what-youll-find-here",
+          "line": 13,
           "column": 0,
           "depth": 2
         }
       },
-      "children": [
-        "r4q43km80gq5zd5zvyh7dw9",
-        "xkqu4lnms9a3af0lhkl0i4m",
-        "0zu0ozh1grarvl1t9inemki",
-        "fjwc3eputiiymhubjyd13i2"
-      ],
+      "children": [],
       "parent": null,
-      "data": {},
-      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)"
+      "data": {}
     }
   ],
   "noteIndex": {
-    "id": "fnvrjv6dkz2h936rbya2wt9",
-    "title": "Root",
-    "desc": "",
-    "updated": 1776165740442,
-    "created": 1776165740442,
+    "id": "public-root",
+    "title": "Nilay Doshi",
+    "desc": "Personal notes, writing, and things I'm learning.",
+    "updated": 1776486000000,
+    "created": 1776486000000,
+    "published": true,
     "custom": {
+      "published": true,
       "nav_order": 0,
       "permalink": "/"
     },
-    "fname": "root",
+    "fname": "public",
+    "body": "\n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "bodhisattva"
     },
-    "contentHash": "9a33b53687a3075c2f7d89c26d05f713",
+    "contentHash": "f63332639842ebfe7271de43c5b6326f",
     "links": [],
     "anchors": {
-      "welcome-to-dendron": {
+      "welcome": {
         "type": "header",
-        "text": "Welcome to Dendron",
-        "value": "welcome-to-dendron",
-        "line": 7,
+        "text": "Welcome",
+        "value": "welcome",
+        "line": 9,
         "column": 0,
         "depth": 1
       },
-      "lookup": {
+      "what-youll-find-here": {
         "type": "header",
-        "text": "Lookup",
-        "value": "lookup",
-        "line": 11,
+        "text": "What you'll find here",
+        "value": "what-youll-find-here",
+        "line": 13,
         "column": 0,
         "depth": 2
       }
     },
-    "children": [
-      "r4q43km80gq5zd5zvyh7dw9",
-      "xkqu4lnms9a3af0lhkl0i4m",
-      "0zu0ozh1grarvl1t9inemki",
-      "fjwc3eputiiymhubjyd13i2"
-    ],
+    "children": [],
     "parent": null,
-    "data": {},
-    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)"
+    "data": {}
   },
   "vaults": [
     {
