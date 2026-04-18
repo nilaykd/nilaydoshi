@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1776501842929,
-      "created": 1776501842929,
+      "updated": 1776502981716,
+      "created": 1776502981716,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -46,7 +46,7 @@
           "type": "header",
           "text": "Welcome",
           "value": "welcome",
-          "line": 9,
+          "line": 11,
           "column": 0,
           "depth": 1
         },
@@ -54,7 +54,7 @@
           "type": "header",
           "text": "What you'll find here",
           "value": "what-youll-find-here",
-          "line": 13,
+          "line": 15,
           "column": 0,
           "depth": 2
         }
@@ -92,7 +92,7 @@
           "type": "header",
           "text": "Welcome",
           "value": "welcome",
-          "line": 9,
+          "line": 11,
           "column": 0,
           "depth": 1
         },
@@ -100,7 +100,7 @@
           "type": "header",
           "text": "What you'll find here",
           "value": "what-youll-find-here",
-          "line": 13,
+          "line": 15,
           "column": 0,
           "depth": 2
         }
@@ -137,7 +137,7 @@
         "type": "header",
         "text": "Welcome",
         "value": "welcome",
-        "line": 9,
+        "line": 11,
         "column": 0,
         "depth": 1
       },
@@ -145,7 +145,7 @@
         "type": "header",
         "text": "What you'll find here",
         "value": "what-youll-find-here",
-        "line": 13,
+        "line": 15,
         "column": 0,
         "depth": 2
       }
