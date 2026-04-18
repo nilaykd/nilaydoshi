@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1776500810501,
-      "created": 1776500810502,
+      "updated": 1776501842929,
+      "created": 1776501842929,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "public-root",
       "title": "Nilay Doshi",
       "desc": "Personal notes, writing, and things I'm learning.",
-      "updated": 1776486000000,
+      "updated": 1776501060307,
       "created": 1776486000000,
       "published": true,
       "custom": {
@@ -39,14 +39,14 @@
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "contentHash": "f63332639842ebfe7271de43c5b6326f",
+      "contentHash": "98c6b6a46f6f8957d08091b0805aa86a",
       "links": [],
       "anchors": {
         "welcome": {
           "type": "header",
           "text": "Welcome",
           "value": "welcome",
-          "line": 11,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -54,7 +54,7 @@
           "type": "header",
           "text": "What you'll find here",
           "value": "what-youll-find-here",
-          "line": 15,
+          "line": 13,
           "column": 0,
           "depth": 2
         }
@@ -69,7 +69,7 @@
       "id": "public-root",
       "title": "Nilay Doshi",
       "desc": "Personal notes, writing, and things I'm learning.",
-      "updated": 1776486000000,
+      "updated": 1776501060307,
       "created": 1776486000000,
       "published": true,
       "custom": {
@@ -78,21 +78,21 @@
         "permalink": "/"
       },
       "fname": "public",
-      "body": "\n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
+      "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "contentHash": "f63332639842ebfe7271de43c5b6326f",
+      "contentHash": "98c6b6a46f6f8957d08091b0805aa86a",
       "links": [],
       "anchors": {
         "welcome": {
           "type": "header",
           "text": "Welcome",
           "value": "welcome",
-          "line": 11,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -100,7 +100,7 @@
           "type": "header",
           "text": "What you'll find here",
           "value": "what-youll-find-here",
-          "line": 15,
+          "line": 13,
           "column": 0,
           "depth": 2
         }
@@ -114,7 +114,7 @@
     "id": "public-root",
     "title": "Nilay Doshi",
     "desc": "Personal notes, writing, and things I'm learning.",
-    "updated": 1776486000000,
+    "updated": 1776501060307,
     "created": 1776486000000,
     "published": true,
     "custom": {
@@ -123,21 +123,21 @@
       "permalink": "/"
     },
     "fname": "public",
-    "body": "\n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
+    "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "bodhisattva"
     },
-    "contentHash": "f63332639842ebfe7271de43c5b6326f",
+    "contentHash": "98c6b6a46f6f8957d08091b0805aa86a",
     "links": [],
     "anchors": {
       "welcome": {
         "type": "header",
         "text": "Welcome",
         "value": "welcome",
-        "line": 11,
+        "line": 9,
         "column": 0,
         "depth": 1
       },
@@ -145,7 +145,7 @@
         "type": "header",
         "text": "What you'll find here",
         "value": "what-youll-find-here",
-        "line": 15,
+        "line": 13,
         "column": 0,
         "depth": 2
       }
