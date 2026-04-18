@@ -1,0 +1,103 @@
+{
+  "roots": [
+    {
+      "key": "r4q43km80gq5zd5zvyh7dw9",
+      "title": "Handbook",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "bodhisattva",
+      "children": []
+    },
+    {
+      "key": "xkqu4lnms9a3af0lhkl0i4m",
+      "title": "Inbox",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "bodhisattva",
+      "children": []
+    },
+    {
+      "key": "fjwc3eputiiymhubjyd13i2",
+      "title": "Moksha",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "bodhisattva",
+      "children": [
+        {
+          "key": "z1qlh4zn4enzcgap95kl3jb",
+          "title": "Journal",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "bodhisattva",
+          "children": [
+            {
+              "key": "wrk3h3u501xi2vt3jrcloew",
+              "title": "2026",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "bodhisattva",
+              "children": [
+                {
+                  "key": "7lp772rctgxfx400u4bjogi",
+                  "title": "04",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "bodhisattva",
+                  "children": [
+                    {
+                      "key": "t0p06bvgzespk841f66i0mu",
+                      "title": "2026-04-16",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "bodhisattva",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "0zu0ozh1grarvl1t9inemki",
+      "title": "Templates",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "bodhisattva",
+      "children": [
+        {
+          "key": "hmorxcldlj03u3q8t5ao8v1",
+          "title": "Daily Journal Template",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "bodhisattva",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "r4q43km80gq5zd5zvyh7dw9": null,
+    "xkqu4lnms9a3af0lhkl0i4m": null,
+    "fjwc3eputiiymhubjyd13i2": null,
+    "z1qlh4zn4enzcgap95kl3jb": "fjwc3eputiiymhubjyd13i2",
+    "wrk3h3u501xi2vt3jrcloew": "z1qlh4zn4enzcgap95kl3jb",
+    "7lp772rctgxfx400u4bjogi": "wrk3h3u501xi2vt3jrcloew",
+    "t0p06bvgzespk841f66i0mu": "7lp772rctgxfx400u4bjogi",
+    "0zu0ozh1grarvl1t9inemki": null,
+    "hmorxcldlj03u3q8t5ao8v1": "0zu0ozh1grarvl1t9inemki"
+  },
+  "notesLabelById": {
+    "r4q43km80gq5zd5zvyh7dw9": "Handbook",
+    "xkqu4lnms9a3af0lhkl0i4m": "Inbox",
+    "fjwc3eputiiymhubjyd13i2": "Moksha",
+    "z1qlh4zn4enzcgap95kl3jb": "Journal",
+    "wrk3h3u501xi2vt3jrcloew": "2026",
+    "7lp772rctgxfx400u4bjogi": "04",
+    "t0p06bvgzespk841f66i0mu": "2026-04-16",
+    "0zu0ozh1grarvl1t9inemki": "Templates",
+    "hmorxcldlj03u3q8t5ao8v1": "Daily Journal Template"
+  }
+}
