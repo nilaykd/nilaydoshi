@@ -1,29 +1,5 @@
 {
-  "roots": [
-    {
-      "key": "public-root",
-      "title": "Home",
-      "icon": null,
-      "hasTitleNumberOutlined": false,
-      "vaultName": "bodhisattva",
-      "children": [
-        {
-          "key": "1oa9twm9pffgq9pq8ch5izc",
-          "title": "About",
-          "icon": null,
-          "hasTitleNumberOutlined": false,
-          "vaultName": "bodhisattva",
-          "children": []
-        }
-      ]
-    }
-  ],
-  "child2parent": {
-    "public-root": null,
-    "1oa9twm9pffgq9pq8ch5izc": "public-root"
-  },
-  "notesLabelById": {
-    "public-root": "Home",
-    "1oa9twm9pffgq9pq8ch5izc": "About"
-  }
+  "roots": [],
+  "child2parent": {},
+  "notesLabelById": {}
 }
