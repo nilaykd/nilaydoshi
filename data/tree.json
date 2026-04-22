@@ -2,7 +2,7 @@
   "roots": [
     {
       "key": "public-root",
-      "title": "Nilay Doshi",
+      "title": "Home",
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "bodhisattva",
@@ -23,7 +23,7 @@
     "1oa9twm9pffgq9pq8ch5izc": "public-root"
   },
   "notesLabelById": {
-    "public-root": "Nilay Doshi",
+    "public-root": "Home",
     "1oa9twm9pffgq9pq8ch5izc": "About"
   }
 }

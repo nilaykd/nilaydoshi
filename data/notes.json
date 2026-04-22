@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1776865279788,
-      "created": 1776865279788,
+      "updated": 1776865907634,
+      "created": 1776865907634,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -22,9 +22,9 @@
     },
     "public-root": {
       "id": "public-root",
-      "title": "Nilay Doshi",
+      "title": "Home",
       "desc": "Personal notes, writing, and things I'm learning.",
-      "updated": 1776501060307,
+      "updated": 1776865835712,
       "created": 1776486000000,
       "published": true,
       "custom": {
@@ -39,7 +39,7 @@
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "contentHash": "98c6b6a46f6f8957d08091b0805aa86a",
+      "contentHash": "b698e0bc901ada8885f052080c07865a",
       "links": [],
       "anchors": {
         "welcome": {
@@ -90,9 +90,9 @@
   "domains": [
     {
       "id": "public-root",
-      "title": "Nilay Doshi",
+      "title": "Home",
       "desc": "Personal notes, writing, and things I'm learning.",
-      "updated": 1776501060307,
+      "updated": 1776865835712,
       "created": 1776486000000,
       "published": true,
       "custom": {
@@ -101,13 +101,14 @@
         "permalink": "/"
       },
       "fname": "public",
+      "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "contentHash": "98c6b6a46f6f8957d08091b0805aa86a",
+      "contentHash": "b698e0bc901ada8885f052080c07865a",
       "links": [],
       "anchors": {
         "welcome": {
@@ -131,15 +132,14 @@
         "1oa9twm9pffgq9pq8ch5izc"
       ],
       "parent": null,
-      "data": {},
-      "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n"
+      "data": {}
     }
   ],
   "noteIndex": {
     "id": "public-root",
-    "title": "Nilay Doshi",
+    "title": "Home",
     "desc": "Personal notes, writing, and things I'm learning.",
-    "updated": 1776501060307,
+    "updated": 1776865835712,
     "created": 1776486000000,
     "published": true,
     "custom": {
@@ -148,13 +148,14 @@
       "permalink": "/"
     },
     "fname": "public",
+    "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "bodhisattva"
     },
-    "contentHash": "98c6b6a46f6f8957d08091b0805aa86a",
+    "contentHash": "b698e0bc901ada8885f052080c07865a",
     "links": [],
     "anchors": {
       "welcome": {
@@ -178,8 +179,7 @@
       "1oa9twm9pffgq9pq8ch5izc"
     ],
     "parent": null,
-    "data": {},
-    "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n"
+    "data": {}
   },
   "vaults": [
     {

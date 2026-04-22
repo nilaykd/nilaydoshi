@@ -107,7 +107,8 @@
     "enableKatex": true,
     "copyAssets": true,
     "siteHierarchies": [
-      "public"
+      "public",
+      "about"
     ],
     "writeStubs": false,
     "siteRootDir": "docs",
