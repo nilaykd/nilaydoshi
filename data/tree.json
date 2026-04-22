@@ -6,13 +6,24 @@
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "bodhisattva",
-      "children": []
+      "children": [
+        {
+          "key": "1oa9twm9pffgq9pq8ch5izc",
+          "title": "About",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "bodhisattva",
+          "children": []
+        }
+      ]
     }
   ],
   "child2parent": {
-    "public-root": null
+    "public-root": null,
+    "1oa9twm9pffgq9pq8ch5izc": "public-root"
   },
   "notesLabelById": {
-    "public-root": "Nilay Doshi"
+    "public-root": "Nilay Doshi",
+    "1oa9twm9pffgq9pq8ch5izc": "About"
   }
 }
