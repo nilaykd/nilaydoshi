@@ -107,8 +107,8 @@
     "enableKatex": true,
     "copyAssets": true,
     "siteHierarchies": [
-      "public.home",
-      "public.about"
+      "home",
+      "posts"
     ],
     "writeStubs": false,
     "siteRootDir": "docs",
@@ -131,6 +131,6 @@
     "searchMode": "search",
     "siteUrl": "https://nilaydoshi.com",
     "siteFaviconPath": "favicon.ico",
-    "siteIndex": "public.home"
+    "siteIndex": "home"
   }
 }

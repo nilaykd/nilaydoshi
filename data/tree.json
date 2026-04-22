@@ -1,5 +1,39 @@
 {
-  "roots": [],
-  "child2parent": {},
-  "notesLabelById": {}
+  "roots": [
+    {
+      "key": "public-root",
+      "title": "Home",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "bodhisattva",
+      "children": []
+    },
+    {
+      "key": "1oa9twm9pffgq9pq8ch5izc",
+      "title": "Posts",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "bodhisattva",
+      "children": [
+        {
+          "key": "g7j3q86wxoryljjh7rhnt21",
+          "title": "The Fastest Way to Understand a System Is to Simulate Its Dumbest Version",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "bodhisattva",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "public-root": null,
+    "1oa9twm9pffgq9pq8ch5izc": null,
+    "g7j3q86wxoryljjh7rhnt21": "1oa9twm9pffgq9pq8ch5izc"
+  },
+  "notesLabelById": {
+    "public-root": "Home",
+    "1oa9twm9pffgq9pq8ch5izc": "Posts",
+    "g7j3q86wxoryljjh7rhnt21": "The Fastest Way to Understand a System Is to Simulate Its Dumbest Version"
+  }
 }

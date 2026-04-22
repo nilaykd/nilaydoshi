@@ -1,2 +1,2 @@
 
-This is a test
+- [[posts.the-fastest-way-to-understand-a-system-is-to-simulate-its-dumbest-version]]
