@@ -130,6 +130,7 @@
     "enablePrettyLinks": true,
     "searchMode": "search",
     "siteUrl": "https://nilaydoshi.com",
+    "enableHierarchyDisplay": false,
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "home"
   }

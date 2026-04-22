@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1776869155778,
-      "created": 1776869155778,
+      "updated": 1776869669035,
+      "created": 1776869669035,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,11 +24,9 @@
       "id": "1oa9twm9pffgq9pq8ch5izc",
       "title": "Posts",
       "desc": "",
-      "hideChildren": true,
-      "updated": 1776869076030,
+      "updated": 1776869541806,
       "created": 1776865180330,
       "custom": {
-        "hideChildren": true,
         "nav_order": 1
       },
       "fname": "posts",
@@ -38,7 +36,7 @@
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "contentHash": "41c999e07a5fd4ce1b2c625877f5ca81",
+      "contentHash": "87f4a8a8280fecf5b3e753c55978ab8a",
       "links": [
         {
           "type": "wiki",
@@ -144,7 +142,7 @@
           "type": "header",
           "text": "Welcome",
           "value": "welcome",
-          "line": 9,
+          "line": 11,
           "column": 0,
           "depth": 1
         },
@@ -152,7 +150,7 @@
           "type": "header",
           "text": "What you'll find here",
           "value": "what-youll-find-here",
-          "line": 13,
+          "line": 15,
           "column": 0,
           "depth": 2
         }
@@ -190,7 +188,7 @@
           "type": "header",
           "text": "Welcome",
           "value": "welcome",
-          "line": 9,
+          "line": 11,
           "column": 0,
           "depth": 1
         },
@@ -198,7 +196,7 @@
           "type": "header",
           "text": "What you'll find here",
           "value": "what-youll-find-here",
-          "line": 13,
+          "line": 15,
           "column": 0,
           "depth": 2
         }
@@ -212,11 +210,9 @@
       "id": "1oa9twm9pffgq9pq8ch5izc",
       "title": "Posts",
       "desc": "",
-      "hideChildren": true,
-      "updated": 1776869076030,
+      "updated": 1776869541806,
       "created": 1776865180330,
       "custom": {
-        "hideChildren": true,
         "nav_order": 1
       },
       "fname": "posts",
@@ -227,7 +223,7 @@
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "contentHash": "41c999e07a5fd4ce1b2c625877f5ca81",
+      "contentHash": "87f4a8a8280fecf5b3e753c55978ab8a",
       "links": [
         {
           "type": "wiki",
@@ -291,7 +287,7 @@
         "type": "header",
         "text": "Welcome",
         "value": "welcome",
-        "line": 9,
+        "line": 11,
         "column": 0,
         "depth": 1
       },
@@ -299,7 +295,7 @@
         "type": "header",
         "text": "What you'll find here",
         "value": "what-youll-find-here",
-        "line": 13,
+        "line": 15,
         "column": 0,
         "depth": 2
       }
