@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1776870000506,
-      "created": 1776870000506,
+      "updated": 1776952862982,
+      "created": 1776952862982,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -74,19 +74,20 @@
       "data": {}
     },
     "g7j3q86wxoryljjh7rhnt21": {
+      "id": "g7j3q86wxoryljjh7rhnt21",
+      "title": "The Fastest Way to Understand a System Is to Simulate Its Dumbest Version",
+      "desc": "",
+      "updated": 1776869061645,
+      "created": 1776869061645,
+      "custom": {},
       "fname": "posts.the-fastest-way-to-understand-a-system-is-to-simulate-its-dumbest-version",
+      "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "bodhisattva"
       },
-      "title": "The Fastest Way to Understand a System Is to Simulate Its Dumbest Version",
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1776869061645,
-      "created": 1776869061645,
-      "id": "g7j3q86wxoryljjh7rhnt21",
-      "desc": "",
+      "contentHash": "dd894b35cfe4971be2e76af9236a0437",
       "links": [
         {
           "from": {
@@ -114,8 +115,7 @@
       "anchors": {},
       "children": [],
       "parent": "1oa9twm9pffgq9pq8ch5izc",
-      "data": {},
-      "contentHash": "dd894b35cfe4971be2e76af9236a0437"
+      "data": {}
     },
     "public-root": {
       "id": "public-root",
@@ -136,13 +136,14 @@
         "selfContained": true,
         "name": "bodhisattva"
       },
+      "contentHash": "a70bf6c7aeb960d469f136680a188a81",
       "links": [],
       "anchors": {
         "welcome": {
           "type": "header",
           "text": "Welcome",
           "value": "welcome",
-          "line": 11,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -150,15 +151,14 @@
           "type": "header",
           "text": "What you'll find here",
           "value": "what-youll-find-here",
-          "line": 15,
+          "line": 13,
           "column": 0,
           "depth": 2
         }
       },
       "children": [],
       "parent": null,
-      "data": {},
-      "contentHash": "a70bf6c7aeb960d469f136680a188a81"
+      "data": {}
     }
   },
   "domains": [
@@ -175,20 +175,20 @@
         "permalink": "/"
       },
       "fname": "home",
-      "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "bodhisattva"
       },
+      "contentHash": "a70bf6c7aeb960d469f136680a188a81",
       "links": [],
       "anchors": {
         "welcome": {
           "type": "header",
           "text": "Welcome",
           "value": "welcome",
-          "line": 11,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -196,7 +196,7 @@
           "type": "header",
           "text": "What you'll find here",
           "value": "what-youll-find-here",
-          "line": 15,
+          "line": 13,
           "column": 0,
           "depth": 2
         }
@@ -204,7 +204,7 @@
       "children": [],
       "parent": null,
       "data": {},
-      "contentHash": "a70bf6c7aeb960d469f136680a188a81"
+      "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n"
     },
     {
       "id": "1oa9twm9pffgq9pq8ch5izc",
@@ -216,7 +216,6 @@
         "nav_order": 1
       },
       "fname": "posts",
-      "body": "\n- [[posts.the-fastest-way-to-understand-a-system-is-to-simulate-its-dumbest-version]]",
       "type": "note",
       "vault": {
         "fsPath": ".",
@@ -258,7 +257,8 @@
         "g7j3q86wxoryljjh7rhnt21"
       ],
       "parent": null,
-      "data": {}
+      "data": {},
+      "body": "\n- [[posts.the-fastest-way-to-understand-a-system-is-to-simulate-its-dumbest-version]]"
     }
   ],
   "noteIndex": {
@@ -274,20 +274,20 @@
       "permalink": "/"
     },
     "fname": "home",
-    "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "bodhisattva"
     },
+    "contentHash": "a70bf6c7aeb960d469f136680a188a81",
     "links": [],
     "anchors": {
       "welcome": {
         "type": "header",
         "text": "Welcome",
         "value": "welcome",
-        "line": 11,
+        "line": 9,
         "column": 0,
         "depth": 1
       },
@@ -295,7 +295,7 @@
         "type": "header",
         "text": "What you'll find here",
         "value": "what-youll-find-here",
-        "line": 15,
+        "line": 13,
         "column": 0,
         "depth": 2
       }
@@ -303,7 +303,7 @@
     "children": [],
     "parent": null,
     "data": {},
-    "contentHash": "a70bf6c7aeb960d469f136680a188a81"
+    "body": "    \n# Welcome\n\nThis is where I publish notes I want to share. Everything under this hierarchy (`public.*`) goes live at [nilaydoshi.com](https://nilaydoshi.com). Everything else stays private.\n\n## What you'll find here\n\nMore will show up as I write. For now, this page is the placeholder.\n\n---\n\n*This site is built from my personal knowledge base using [Arborist](https://github.com/nilaykd/arborist), a maintained fork of Dendron.*\n"
   },
   "vaults": [
     {
